@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Lock shackle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 44,48 V 39 C 44,33 48,29 54,29 C 60,29 64,33 64,39 V 48" />
+
+    <!-- Lock body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M 37,48 C 34.8,48 33,49.8 33,52 L 33,74 C 33,76.2 34.8,78 37,78 L 71,78 C 73.2,78 75,76.2 75,74 L 75,52 C 75,49.8 73.2,48 71,48 Z" />
+
+    <!-- Timer / Keyhole dial inside lock -->
+    <path
+        android:fillColor="#FF141416"
+        android:pathData="M 54,58 C 51.8,58 50,59.8 50,62 C 50,63.4 50.7,64.6 51.8,65.3 L 50.5,70 C 50.3,70.5 50.7,71 51.2,71 L 56.8,71 C 57.3,71 57.7,70.5 57.5,70 L 56.2,65.3 C 57.3,64.6 58,63.4 58,62 C 58,59.8 56.2,58 54,58 Z" />
+</vector>
